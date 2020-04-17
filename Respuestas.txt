@@ -1,0 +1,43 @@
+A) Aclarando desde la consola al repositorio original como upstream del fork y haciendole un merge.
+B) Si, alfa puede actualizar su fork al de gama si en vez del repositorio original usa al de gama como upstream
+C) 
+D) No, los datos no se pierden. En un .txt quedan separados por este formato
+//<<<<<<<HEAD
+archivo local
+//=======
+archivo upstream
+//>>>>>>>upstream/master
+
+E)
+Santiago Arakelian
+70 git clone https://github.com/asantiagoa/TP_SO_i2_Equipo3
+71 git status
+72 git status
+73 git add .
+74 git commit -m "ALFA MOD FORK.TXT"
+75 git status
+76 git push origin master
+77 git fetch upstream
+78 git fetch upstream
+79 git status
+80 git fetch upstream/origin
+81 git remote -v
+82 git remote add upstream https://github.com/Francisco004/TP_SO_i2_Equipo3
+83 git remote -v
+84 git fetch upstream
+85 git status
+86 git checkout master
+87 git merge upstream
+88 git merge upstream/master
+89 git status
+90 git add .
+91 git commmit -m "MERGE"
+92 git commit -m "MERGE"
+93 git status
+94 git push origin master
+95 history
+
+Francisco Rocha
+
+Patricio Eyjo
+
