@@ -1,6 +1,6 @@
 A) Aclarando desde la consola al repositorio original como upstream del fork y haciendole un merge.
 B) Si, alfa puede actualizar su fork al de gama si en vez del repositorio original usa al de gama como upstream
-C) 
+C) Si, gama puede actualizar su fork al de gama si en vez del repositorio original usa al de alfa como upstream
 D) No, los datos no se pierden. En un .txt quedan separados por este formato
 //<<<<<<<HEAD
 archivo local
@@ -38,6 +38,7 @@ Santiago Arakelian
 95 history
 
 Francisco Rocha
+Use git GUI, ahora pruebo con git BASH
 
 Patricio Eyjo
 
