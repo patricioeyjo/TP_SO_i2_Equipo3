@@ -44,7 +44,7 @@ Agrego el txt en la carpeta
 27  git status
 28  git add .
 29  git commit "FORK"
-30  git commit -m ""prueba""
+30  git commit -m "FORK"
 31  git status
 32  git push
 33  git clone https://github.com/Francisco004/PruebaS0.git
