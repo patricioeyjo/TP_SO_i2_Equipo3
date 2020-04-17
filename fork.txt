@@ -1,3 +1,15 @@
 Patricio Eyjo
 192.168.0.1
 10:22
+
+
+no pude actualizar, no me deja clonar mediante comando.
+
+Cloning into 'TP_SO_i2_Equipo3'...
+Warning: Permanently added the RSA host key for IP address '18.228.67.229' to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
